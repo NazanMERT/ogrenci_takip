@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bolum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="öğrenciprofili.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrencipaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="notgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrencikaydet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogretmen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="girisekranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
